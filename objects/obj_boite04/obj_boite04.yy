@@ -1,13 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_tuyau_puzzle",
-  "eventList": [],
+  "name": "obj_boite04",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_trou01","path":"objects/obj_trou01/obj_trou01.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Puzzle02",
-    "path": "folders/Objects/Puzzle/Puzzle02.yy",
+    "name": "Puzzle01",
+    "path": "folders/Objects/Puzzle/Puzzle01.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_tuyau_puzzle",
-    "path": "sprites/spr_tuyau_puzzle/spr_tuyau_puzzle.yy",
+    "name": "spr_boite04",
+    "path": "sprites/spr_boite04/spr_boite04.yy",
   },
   "spriteMaskId": null,
   "visible": true,
