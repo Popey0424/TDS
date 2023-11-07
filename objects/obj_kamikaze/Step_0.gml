@@ -1,6 +1,7 @@
 if (distance_to_object(obj_player) < 2560) 
 {
     active = true;
+	
 	if (x < obj_player.x) 
 	{
         direction = 1; // L'ennemi va vers la droite
