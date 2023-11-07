@@ -14,13 +14,13 @@ function collision_case01()
 	
 	repeat(_disx)
 	{
-		if(!place_meeting(x+sign(_tx-x), y, obj_obstacle_case01))
+		if(!place_meeting(x+sign(_tx-x), y, obj_obstacle_caisse))
 			x += sign(_tx-x);
 	}
 	
 	repeat(_disy)
 	{
-		if(!place_meeting(x, y+sign(_ty-y), obj_obstacle_case01))
+		if(!place_meeting(x, y+sign(_ty-y), obj_obstacle_caisse))
 			y += sign(_ty-y);
 	}
 	

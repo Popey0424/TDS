@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_livre_ferme",
-  "bbox_bottom": 573,
-  "bbox_left": 6,
-  "bbox_right": 390,
-  "bbox_top": 12,
+  "bbox_bottom": 604,
+  "bbox_left": 0,
+  "bbox_right": 452,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"d25e5eeb-15ba-4d4d-b7f7-bbf3ef5866c1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fdf84105-65cd-41ba-872c-5e64404df8e3",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 600,
+  "height": 605,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ce648544-c141-476a-b54e-cc6721a65e9c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"8242fb94-c1b9-4542-bcf4-0d8c49a65a98","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"d25e5eeb-15ba-4d4d-b7f7-bbf3ef5866c1","path":"sprites/spr_livre_ferme/spr_livre_ferme.yy",},},},"Disabled":false,"id":"ca6d71b6-8254-482b-845a-7b851c19ba14","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fdf84105-65cd-41ba-872c-5e64404df8e3","path":"sprites/spr_livre_ferme/spr_livre_ferme.yy",},},},"Disabled":false,"id":"4074374c-7829-4426-a826-83ea363c532a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 800,
+  "width": 453,
 }

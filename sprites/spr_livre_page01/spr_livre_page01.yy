@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_livre_page01",
-  "bbox_bottom": 577,
-  "bbox_left": 6,
-  "bbox_right": 793,
-  "bbox_top": 12,
+  "bbox_bottom": 604,
+  "bbox_left": 1,
+  "bbox_right": 881,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"88415b32-8e7f-4a8a-b572-f2ba76be27f7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"59292ff1-92bf-4437-a74c-dc8ae02da63d",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 600,
+  "height": 605,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fb560ec4-c7b3-485e-99e6-3da1f8802e97","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7d637d44-5d7f-4440-826d-043ecf25b55d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"88415b32-8e7f-4a8a-b572-f2ba76be27f7","path":"sprites/spr_livre_page01/spr_livre_page01.yy",},},},"Disabled":false,"id":"96e7558a-eba6-45c5-a353-39b48aed88e4","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"59292ff1-92bf-4437-a74c-dc8ae02da63d","path":"sprites/spr_livre_page01/spr_livre_page01.yy",},},},"Disabled":false,"id":"e69a4348-c668-472d-a4c1-812eef0ea0e4","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 800,
+  "width": 882,
 }

@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_livre_ouvert",
-  "bbox_bottom": 577,
-  "bbox_left": 390,
-  "bbox_right": 793,
-  "bbox_top": 12,
+  "bbox_bottom": 604,
+  "bbox_left": 0,
+  "bbox_right": 452,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"0dc80349-5d46-4f44-8bbb-c091bdd1aec6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"92573da2-f6df-4a09-a100-6f41b706d273",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 600,
+  "height": 605,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c913fb4a-0fc2-4692-861b-ebeba5ad6a79","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"44113f2c-b14c-4cbb-b709-082aa93f89a3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"0dc80349-5d46-4f44-8bbb-c091bdd1aec6","path":"sprites/spr_livre_ouvert/spr_livre_ouvert.yy",},},},"Disabled":false,"id":"e85cf50d-69ee-4689-bf7a-69950601e17f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"92573da2-f6df-4a09-a100-6f41b706d273","path":"sprites/spr_livre_ouvert/spr_livre_ouvert.yy",},},},"Disabled":false,"id":"2c046e5e-ce92-4faa-8a4c-effdaacd6644","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 800,
+  "width": 453,
 }
