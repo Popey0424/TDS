@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "judith",
-    "path": "folders/Objects/Rooms/judith.yy",
+    "path": "folders/Rooms/judith.yy",
   },
   "parentRoom": null,
   "physicsSettings": {
