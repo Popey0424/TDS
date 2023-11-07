@@ -2,6 +2,7 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"spr_trou01","order":3,"path":"sprites/spr_trou01/spr_trou01.yy",},
+    {"name":"Level01","order":1,"path":"rooms/Level01/Level01.yy",},
     {"name":"spr_projectil","order":4,"path":"sprites/spr_projectil/spr_projectil.yy",},
     {"name":"spr_trou_ennemies","order":2,"path":"sprites/spr_trou_ennemies/spr_trou_ennemies.yy",},
     {"name":"obj_projectil","order":1,"path":"objects/obj_projectil/obj_projectil.yy",},
