@@ -1,10 +1,15 @@
 /// @description create hole
 // You can write your code in this editor
 
+<<<<<<< HEAD
 
 
+=======
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of 8f69dd6 (enemy et collision)
 obj_player.sprite_index = spr_player_attack_right
-
+>>>>>>> Stashed changes
 
 if(can_shoot == true)
 	{

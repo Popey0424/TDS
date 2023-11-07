@@ -1,4 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
+state = 1
 
-scr_ejecter()

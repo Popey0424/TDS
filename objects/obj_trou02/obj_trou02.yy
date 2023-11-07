@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_trou_ennemies",
+  "name": "obj_trou02",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_trou_ennemies",
-    "path": "sprites/spr_trou_ennemies/spr_trou_ennemies.yy",
+    "name": "spr_trou02",
+    "path": "sprites/spr_trou02/spr_trou02.yy",
   },
   "spriteMaskId": null,
   "visible": true,
