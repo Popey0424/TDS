@@ -20,7 +20,7 @@ if (f==1)
 
     {
 		
-        draw_sprite(spr_livre_ouvert,image_index,500,200);
+        draw_sprite(spr_livre_ouvert,image_index,900,200);
 
 
         }
@@ -39,15 +39,9 @@ if (f==1)
         draw_sprite(spr_livre_page02, image_index,500,200);
    
         }
+				 
 		
-		   if (page_object = 3)
-
-    {
-        draw_sprite(spr_livre_page03, image_index,500,200);
-
-        }
-		
-			   if (page_object = 4)
+			   if (page_object = 3)
 
     {
         draw_sprite(spr_livre_ferme, image_index,500,200);
