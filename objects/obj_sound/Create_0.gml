@@ -1,0 +1,1 @@
+audio_play_sound(Sound_Ambiance, 1000, true)

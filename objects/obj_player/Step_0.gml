@@ -1,4 +1,10 @@
 
+<<<<<<< Updated upstream
+=======
+//if(global.pause) exit;
+
+
+>>>>>>> Stashed changes
 
 walk_spd = 10
 
@@ -27,6 +33,10 @@ else
 {
 calc_movement();
 }
+//if(mouse_check_button_pressed(ev_left_press))
+//	{
+//		obj_player.sprite_index = spr_player_attack_right
+//	}
 
 
 //le joueur peut bouger s'il appuie de nouveau sur f près d'un objet interactif
