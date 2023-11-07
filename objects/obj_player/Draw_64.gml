@@ -3,9 +3,11 @@
 draw_text(40, 20, "Score: " + string(global.pscore));
 draw_text(40, 120, "COMBO: " + string(global.pcombo));
 
-draw_sprite(spr_life, 0, 0, 0);
 
 
+for (var i = 1; i < life+1; i++){
+    draw_sprite(spr_life, 0, 64 * i, 200);
+}
 
 
 //afficher l'objet narratif 01
