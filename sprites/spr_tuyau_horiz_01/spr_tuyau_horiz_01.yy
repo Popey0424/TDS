@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b13c3188-f179-473a-b753-01f079723ed3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"791d4a87-670f-4029-8943-1754cee9227b",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 128,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7dc0f636-8fc4-4269-895b-46d353b51a48","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"74dd9c4b-eac1-44cd-8b8a-4c40579c1e6e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Obstacles",
-    "path": "folders/Sprites/Obstacles.yy",
+    "name": "Decoration",
+    "path": "folders/Sprites/Decoration.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b13c3188-f179-473a-b753-01f079723ed3","path":"sprites/spr_tuyau_horiz_01/spr_tuyau_horiz_01.yy",},},},"Disabled":false,"id":"fe9b8de4-34f8-4aab-8048-edda286cadcf","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"791d4a87-670f-4029-8943-1754cee9227b","path":"sprites/spr_tuyau_horiz_01/spr_tuyau_horiz_01.yy",},},},"Disabled":false,"id":"cc1793d2-2450-4ee0-beab-5b5f497a0a3d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "Puzzle02",
-    "path": "folders/Sprites/Obstacles/Puzzle/Puzzle02.yy",
+    "path": "folders/Sprites/Puzzle/Puzzle02.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {

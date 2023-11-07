@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_tuyau_verti_01",
-  "bbox_bottom": 511,
-  "bbox_left": 0,
-  "bbox_right": 127,
-  "bbox_top": 0,
+  "name": "spr_hublot",
+  "bbox_bottom": 163,
+  "bbox_left": 25,
+  "bbox_right": 161,
+  "bbox_top": 32,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c18bb3d6-b568-46cb-a47d-c8af812358b1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dce9b536-6616-4acf-9b51-efbb1082c2c0",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 512,
+  "height": 179,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"14752ff4-3c4e-421c-ae8d-05c7eb045413","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d3feb84b-ecb4-4c56-9eb2-13320f8070b9","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_tuyau_verti_01",
+    "name": "spr_hublot",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c18bb3d6-b568-46cb-a47d-c8af812358b1","path":"sprites/spr_tuyau_verti_01/spr_tuyau_verti_01.yy",},},},"Disabled":false,"id":"329fad39-b77a-4673-b6d2-35d7b26a281b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"dce9b536-6616-4acf-9b51-efbb1082c2c0","path":"sprites/spr_hublot/spr_hublot.yy",},},},"Disabled":false,"id":"232c888c-ccd7-4596-aca8-d054ec291b77","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 185,
 }

@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_tuyau_horiz_02",
-  "bbox_bottom": 127,
+  "bbox_bottom": 81,
   "bbox_left": 0,
-  "bbox_right": 255,
+  "bbox_right": 237,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b13c3188-f179-473a-b753-01f079723ed3",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7545b8fa-0bc1-4ec1-9dcf-4662d5f12b04",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 82,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7dc0f636-8fc4-4269-895b-46d353b51a48","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f3ff758c-a85b-404d-b64e-ea86005a5823","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Obstacles",
-    "path": "folders/Sprites/Obstacles.yy",
+    "name": "Decoration",
+    "path": "folders/Sprites/Decoration.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b13c3188-f179-473a-b753-01f079723ed3","path":"sprites/spr_tuyau_horiz_02/spr_tuyau_horiz_02.yy",},},},"Disabled":false,"id":"19db6908-17af-4057-a2ba-f32e32533231","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7545b8fa-0bc1-4ec1-9dcf-4662d5f12b04","path":"sprites/spr_tuyau_horiz_02/spr_tuyau_horiz_02.yy",},},},"Disabled":false,"id":"3cb76e5e-95ee-4a84-9f78-6245efea4990","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 256,
+  "width": 238,
 }

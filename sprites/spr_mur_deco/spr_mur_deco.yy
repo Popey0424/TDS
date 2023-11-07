@@ -1,8 +1,8 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_tuyau_verti_01",
-  "bbox_bottom": 511,
+  "name": "spr_mur_deco",
+  "bbox_bottom": 383,
   "bbox_left": 0,
   "bbox_right": 127,
   "bbox_top": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c18bb3d6-b568-46cb-a47d-c8af812358b1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"18947cbb-d45e-487a-b411-0860ad06a62b",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 512,
+  "height": 384,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"14752ff4-3c4e-421c-ae8d-05c7eb045413","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f113c890-16fd-4d7c-b7c1-a9ad48d937da","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_tuyau_verti_01",
+    "name": "spr_mur_deco",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c18bb3d6-b568-46cb-a47d-c8af812358b1","path":"sprites/spr_tuyau_verti_01/spr_tuyau_verti_01.yy",},},},"Disabled":false,"id":"329fad39-b77a-4673-b6d2-35d7b26a281b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"18947cbb-d45e-487a-b411-0860ad06a62b","path":"sprites/spr_mur_deco/spr_mur_deco.yy",},},},"Disabled":false,"id":"eb72db1c-9438-4068-8d74-1f7903f41d59","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
