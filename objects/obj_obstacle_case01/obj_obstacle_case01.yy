@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_tuyau_puzzle",
+  "name": "obj_obstacle_case01",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Puzzle02",
-    "path": "folders/Objects/Puzzle/Puzzle02.yy",
+    "name": "Obstacles",
+    "path": "folders/Objects/Obstacles.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_tuyau_puzzle",
-    "path": "sprites/spr_tuyau_puzzle/spr_tuyau_puzzle.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
