@@ -1,4 +1,5 @@
 
+if(global.pause) exit;
 
 walk_spd = 10
 

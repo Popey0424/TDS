@@ -1,6 +1,6 @@
 /// @description create hole
 // You can write your code in this editor
-
+if(global.pause) exit;
 
 if(can_shoot == true)
 	{

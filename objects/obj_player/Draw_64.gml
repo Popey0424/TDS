@@ -3,14 +3,7 @@
 draw_text(40, 20, "Score: " + string(global.pscore));
 draw_text(40, 120, "COMBO: " + string(global.pcombo));
 
-var l021D6509_0 = sprite_get_width(spr_life);
-var l021D6509_1 = 1;
-if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
-for(var l021D6509_2 = __dnd_lives; l021D6509_2 > 0; --l021D6509_2) 
-{
-	draw_sprite(spr_life, 0, 0 + l021D6509_1, 700);
-	l021D6509_1 += l021D6509_0;
-}
+draw_sprite(spr_life, 0, 0, 0);
 
 
 

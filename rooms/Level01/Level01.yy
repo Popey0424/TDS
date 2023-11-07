@@ -1773,8 +1773,6 @@
     {"name":"inst_60614670","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_30023A4F","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_1AD79EF2","path":"rooms/Level01/Level01.yy",},
-<<<<<<< HEAD
-=======
     {"name":"inst_123082A6","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_723B1342","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_7C7FC115","path":"rooms/Level01/Level01.yy",},
@@ -1992,10 +1990,6 @@
     {"name":"inst_23420841","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_3C833CF3","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_21F52AC1","path":"rooms/Level01/Level01.yy",},
-<<<<<<< Updated upstream
-=======
->>>>>>> 0ec87ce8df5bb355fd5c4414395adc89984f9026
->>>>>>> Stashed changes
   ],
   "isDnd": false,
   "layers": [
@@ -2025,6 +2019,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3426766C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_kamikaze","path":"objects/obj_kamikaze/obj_kamikaze.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":5376.0,"y":1216.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_33615DCF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_kamikaze","path":"objects/obj_kamikaze/obj_kamikaze.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":5408.0,"y":864.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_63BA0C75","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_bonberman","path":"objects/obj_bonberman/obj_bonberman.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2400.0,"y":672.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_123082A6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":160.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_Interactive_objects","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3E89A039","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_book01","path":"objects/obj_book01/obj_book01.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":416.0,"y":2720.0,},
