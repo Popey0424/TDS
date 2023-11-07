@@ -1,4 +1,13 @@
 {
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_health_bar","order":1,"path":"sprites/spr_health_bar/spr_health_bar.yy",},
+    {"name":"Object35","order":1,"path":"objects/Object35/Object35.yy",},
+=======
+>>>>>>> Stashed changes
   "FolderOrderSettings": [
     {"name":"Enemies","order":5,"path":"folders/Objects/Enemies.yy",},
     {"name":"Manager","order":6,"path":"folders/Objects/Manager.yy",},
@@ -45,5 +54,9 @@
     {"name":"spr_obj","order":3,"path":"sprites/spr_obj/spr_obj.yy",},
     {"name":"spr_tuyau_horiz_02","order":3,"path":"sprites/spr_tuyau_horiz_02/spr_tuyau_horiz_02.yy",},
     {"name":"spr_tonnaux","order":2,"path":"sprites/spr_tonnaux/spr_tonnaux.yy",},
+<<<<<<< Updated upstream
+=======
+>>>>>>> 0ec87ce8df5bb355fd5c4414395adc89984f9026
+>>>>>>> Stashed changes
   ],
 }

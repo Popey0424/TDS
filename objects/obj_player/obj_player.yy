@@ -18,8 +18,17 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_trou03","path":"objects/obj_trou03/obj_trou03.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_text01","path":"objects/obj_text01/obj_text01.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+<<<<<<< Updated upstream
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_malette","path":"objects/obj_malette/obj_malette.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_pile_de_feuilles","path":"objects/obj_pile_de_feuilles/obj_pile_de_feuilles.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+=======
+<<<<<<< HEAD
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":27,"eventType":9,"isDnD":false,},
+=======
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_malette","path":"objects/obj_malette/obj_malette.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_pile_de_feuilles","path":"objects/obj_pile_de_feuilles/obj_pile_de_feuilles.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+>>>>>>> 0ec87ce8df5bb355fd5c4414395adc89984f9026
+>>>>>>> Stashed changes
   ],
   "managed": true,
   "overriddenProperties": [],
