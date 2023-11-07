@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings": [
+<<<<<<< Updated upstream
     {"name":"Extensions","order":1,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":2,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":3,"path":"folders/Notes.yy",},
@@ -92,5 +93,16 @@
     {"name":"spr_tuyau_horiz_02","order":3,"path":"sprites/spr_tuyau_horiz_02/spr_tuyau_horiz_02.yy",},
     {"name":"spr_tonnaux","order":2,"path":"sprites/spr_tonnaux/spr_tonnaux.yy",},
     {"name":"spr_boite04","order":3,"path":"sprites/spr_boite04/spr_boite04.yy",},
+=======
+    {"name":"judith","order":2,"path":"folders/Rooms/judith.yy",},
+    {"name":"RoomsMenu","order":3,"path":"folders/Rooms/RoomsMenu.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"Room_GameOver","order":1,"path":"rooms/Room_GameOver/Room_GameOver.yy",},
+    {"name":"Level01","order":4,"path":"rooms/Level01/Level01.yy",},
+    {"name":"spr_handle_sound","order":1,"path":"sprites/spr_handle_sound/spr_handle_sound.yy",},
+    {"name":"obj_sound_handle","order":1,"path":"objects/obj_sound_handle/obj_sound_handle.yy",},
+    {"name":"Room7","order":5,"path":"rooms/Room7/Room7.yy",},
+>>>>>>> Stashed changes
   ],
 }

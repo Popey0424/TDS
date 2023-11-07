@@ -1,10 +1,5 @@
 
-<<<<<<< Updated upstream
-=======
 //if(global.pause) exit;
-
-
->>>>>>> Stashed changes
 
 walk_spd = 10
 
