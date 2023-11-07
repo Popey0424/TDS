@@ -14,7 +14,7 @@
   ],
   "parent": {
     "name": "RoomsMenu",
-    "path": "folders/Rooms/RoomsMenu.yy",
+    "path": "folders/Objects/Rooms/RoomsMenu.yy",
   },
   "parentRoom": null,
   "physicsSettings": {

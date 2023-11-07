@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_obstacle_case01",
+  "name": "obj_pile_de_feuilles",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_case01",
-    "path": "sprites/spr_case01/spr_case01.yy",
+    "name": "spr_pile_de_feuille",
+    "path": "sprites/spr_pile_de_feuille/spr_pile_de_feuille.yy",
   },
   "spriteMaskId": null,
   "visible": true,
