@@ -23,7 +23,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"0c554707-d9c0-494e-a831-dc4d85f1323b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 1,
+  "origin": 0,
   "parent": {
     "name": "Trous",
     "path": "folders/Sprites/Trous.yy",
@@ -59,7 +59,7 @@
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 64,
+    "xorigin": 0,
     "yorigin": 0,
   },
   "swatchColours": null,

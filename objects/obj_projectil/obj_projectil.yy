@@ -1,18 +1,19 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_trou03",
-  "eventList": [],
+  "name": "obj_projectil",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "WeaponAct",
     "path": "folders/Objects/WeaponAct.yy",
   },
-  "parentObjectId": {
-    "name": "obj_trou01",
-    "path": "objects/obj_trou01/obj_trou01.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_trou03",
-    "path": "sprites/spr_trou03/spr_trou03.yy",
+    "name": "spr_projectil",
+    "path": "sprites/spr_projectil/spr_projectil.yy",
   },
   "spriteMaskId": null,
   "visible": true,
