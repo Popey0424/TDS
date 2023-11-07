@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Puzzle02",
-    "path": "folders/Objects/Puzzle/Puzzle02.yy",
+    "name": "Puzzle",
+    "path": "folders/Objects/Puzzle.yy",
   },
   "parentObjectId": null,
   "persistent": false,
