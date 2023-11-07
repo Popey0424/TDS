@@ -72,3 +72,4 @@ if ((keyboard_check_pressed(vk_left) or keyboard_check_pressed(ord("Q"))) and pa
 life = __dnd_lives
 
 
+
