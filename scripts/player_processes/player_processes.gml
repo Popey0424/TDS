@@ -13,6 +13,7 @@ function get_input()
 	if(keyboard_check(ord("Z"))or keyboard_check(vk_up)) up = 1;
 	if(keyboard_check(ord("S"))or keyboard_check(vk_down)) down = 1;
 	
+	
 }
 
 function calc_movement()
@@ -26,6 +27,10 @@ function calc_movement()
 	{
 		sprite_index = spr_player_right
 	}
+	//if(mouse_check_button_pressed(ev_left_press))
+	//{
+		
+	//}
 	var _vmove = down - up; // aller a gauche right = 0 et left = -1 donc = -1 donc player vas a gauche 
 	// si cas contraire right = 1 et left = 0 alors go droite 
 	

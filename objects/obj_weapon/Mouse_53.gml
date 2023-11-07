@@ -1,6 +1,10 @@
 /// @description create hole
 // You can write your code in this editor
 
+<<<<<<< Updated upstream
+=======
+obj_player.sprite_index = spr_player_attack_right
+>>>>>>> Stashed changes
 
 if(can_shoot == true)
 	{
