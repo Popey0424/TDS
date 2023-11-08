@@ -1,4 +1,4 @@
-function collision_cuve()
+function collision_cuve_deco()
 {
 	var _tx = x;
 	var _ty = y;
@@ -14,13 +14,13 @@ function collision_cuve()
 	
 	repeat(_disx)
 	{
-		if(!place_meeting(x+sign(_tx-x), y, obj_cuve))
+		if(!place_meeting(x+sign(_tx-x), y, obj_cuve_deco))
 			x += sign(_tx-x);
 	}
 	
 	repeat(_disy)
 	{
-		if(!place_meeting(x, y+sign(_ty-y), obj_cuve))
+		if(!place_meeting(x, y+sign(_ty-y), obj_cuve_deco))
 			y += sign(_ty-y);
 	}
 	

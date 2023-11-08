@@ -1,3 +1,0 @@
-
-
-collision_cuve();

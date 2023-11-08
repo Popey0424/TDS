@@ -26,3 +26,6 @@ __dnd_lives += real(3);
 	
 	page_object = 0;
 	f = 0;
+	
+	f2 = 0;
+	page_object2 = 0;

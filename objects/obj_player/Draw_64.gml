@@ -61,3 +61,32 @@ if (f==1)
 			}
 }
 
+
+//afficher l'objet narratif2
+
+
+if (f2==1)
+{
+    instance_create_layer(x,y,"Instances_Character",obj_stop_player);
+
+    if (page_object2 = 0)
+
+    {
+
+        draw_sprite(spr_ecriteau,image_index,300,300);
+
+
+        }
+   
+
+    if (page_object2 = 1)
+
+    {
+
+        f2 = 0;
+        page_object2 = 0;
+        instance_destroy(obj_stop_player);
+
+            }
+} 
+

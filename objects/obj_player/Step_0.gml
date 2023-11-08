@@ -40,7 +40,7 @@ calc_movement();
 
 //le joueur peut bouger s'il appuie de nouveau sur f près d'un objet interactif
 
-if ((instance_exists(obj_stop_player)) and f=0) 
+if ((instance_exists(obj_stop_player)) and f=0) or ((instance_exists(obj_stop_player)) and f2=0 )
 {
 instance_destroy(obj_stop_player);
 }
@@ -72,6 +72,34 @@ if ((keyboard_check_pressed(vk_left) or keyboard_check_pressed(ord("Q"))) and pa
 }
 
 }
+
+//obje interactif numéro 2
+
+if f2=1
+
+{
+if (keyboard_check_pressed(vk_right)) or keyboard_check_pressed(ord("D"))
+{
+  page_object2 = page_object2+1;
+} 
+
+if (keyboard_check_pressed(vk_left)) or keyboard_check_pressed(ord("Q"))
+{
+  page_object2 = page_object2-1;}
+
+ 
+if ((keyboard_check_pressed(vk_left) or keyboard_check_pressed(ord("Q"))) and page_object2<0)
+{
+      f2 = 0;
+    page_object2 = 0;
+}  }
+
+
+//
+
+
+
+
 
 life = __dnd_lives
 
