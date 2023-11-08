@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "spr_livre_page02",
   "bbox_bottom": 604,
-  "bbox_left": 0,
-  "bbox_right": 893,
+  "bbox_left": 1,
+  "bbox_right": 881,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"16f359de-b284-49ef-9829-a1a3961b7681",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"613bec97-8157-4dfe-928d-9463b0f5c86b",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 605,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"04c1d194-14ed-4a2d-ac92-d05a8fb8f99d","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4a1f4c40-af01-45da-adf0-da6f10d51c7c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"16f359de-b284-49ef-9829-a1a3961b7681","path":"sprites/spr_livre_page02/spr_livre_page02.yy",},},},"Disabled":false,"id":"cc8d2cbc-63a3-4f33-94b0-761c629bd127","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"613bec97-8157-4dfe-928d-9463b0f5c86b","path":"sprites/spr_livre_page02/spr_livre_page02.yy",},},},"Disabled":false,"id":"cd81dae1-f133-46a2-b7a8-93b6deff7c10","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 894,
+  "width": 882,
 }
