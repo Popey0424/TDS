@@ -25,6 +25,7 @@
     {"name":"obj_health_bar","order":2,"path":"objects/obj_health_bar/obj_health_bar.yy",},
     {"name":"obj_interact","order":2,"path":"objects/obj_interact/obj_interact.yy",},
     {"name":"obj_Wall","order":1,"path":"objects/obj_Wall/obj_Wall.yy",},
+    {"name":"scr_collision_cuve","order":1,"path":"scripts/scr_collision_cuve/scr_collision_cuve.yy",},
     {"name":"spr_trou_ennemies","order":2,"path":"sprites/spr_trou_ennemies/spr_trou_ennemies.yy",},
     {"name":"obj_stop_player","order":1,"path":"objects/obj_stop_player/obj_stop_player.yy",},
     {"name":"obj_projectil","order":1,"path":"objects/obj_projectil/obj_projectil.yy",},
