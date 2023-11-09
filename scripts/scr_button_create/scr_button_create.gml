@@ -2,7 +2,7 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function button_create()
 {
-	with(instance_create_layer(0,0,"layers_pause",obj_button))
+	with(instance_create_layer(0,0,"Instances_pause",obj_button))
 	{
 		_x = argument[0];
 		_y = argument[1];
@@ -23,7 +23,7 @@ function button_create()
 		
 	}
 	
-	with(instance_create_layer(0,0,"layers_pause",obj_button_2))
+	with(instance_create_layer(0,0,"Instances_pause",obj_button_2))
 	{
 		_x = argument[0];
 		_y = argument[1];

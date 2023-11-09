@@ -2,7 +2,6 @@
 // You can write your code in this editor
 
 
-
 obj_player.sprite_index = spr_player_attack_right
 
 

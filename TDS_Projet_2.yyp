@@ -73,7 +73,6 @@
     {"id":{"name":"obj_zone_collision","path":"objects/obj_zone_collision/obj_zone_collision.yy",},},
     {"id":{"name":"scr_button_create","path":"scripts/scr_button_create/scr_button_create.yy",},},
     {"id":{"name":"TestAudio","path":"rooms/TestAudio/TestAudio.yy",},},
-    {"id":{"name":"Level01","path":"rooms/Level01/Level01.yy",},},
     {"id":{"name":"obj_marks_arrow","path":"objects/obj_marks_arrow/obj_marks_arrow.yy",},},
     {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},},
     {"id":{"name":"spr_kamikaze_left","path":"sprites/spr_kamikaze_left/spr_kamikaze_left.yy",},},
@@ -194,7 +193,6 @@
     {"id":{"name":"obj_obstacle_verti_02","path":"objects/obj_obstacle_verti_02/obj_obstacle_verti_02.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Level01","path":"rooms/Level01/Level01.yy",},},
     {"roomId":{"name":"Room_tesqt","path":"rooms/Room_tesqt/Room_tesqt.yy",},},
     {"roomId":{"name":"RoomPause","path":"rooms/RoomPause/RoomPause.yy",},},
     {"roomId":{"name":"RoomMenu","path":"rooms/RoomMenu/RoomMenu.yy",},},
