@@ -23,3 +23,11 @@ function button_create()
 		
 	}
 }
+
+function button_destroy_all()
+{
+	with(obj_button)
+	{
+		instance_destroy();
+	}
+}
