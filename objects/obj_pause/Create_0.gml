@@ -1,2 +1,2 @@
-global.pause = false;
-layers_pause = false
+//global.pause = false;
+//layers_pause = false
