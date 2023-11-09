@@ -29,6 +29,7 @@
     {"name":"Sprite46","order":1,"path":"sprites/Sprite46/Sprite46.yy",},
     {"name":"obj_zonedetections","order":1,"path":"objects/obj_zonedetections/obj_zonedetections.yy",},
     {"name":"AudioManager","order":2,"path":"objects/AudioManager/AudioManager.yy",},
+    {"name":"obj_button_2","order":17,"path":"objects/obj_button_2/obj_button_2.yy",},
     {"name":"obj_health_bar","order":2,"path":"objects/obj_health_bar/obj_health_bar.yy",},
     {"name":"obj_fade_in","order":6,"path":"objects/obj_fade_in/obj_fade_in.yy",},
     {"name":"scr_collision_cuve_deco","order":1,"path":"scripts/scr_collision_cuve_deco/scr_collision_cuve_deco.yy",},

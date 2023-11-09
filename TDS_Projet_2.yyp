@@ -127,6 +127,7 @@
     {"id":{"name":"obj_obstacle_case01","path":"objects/obj_obstacle_case01/obj_obstacle_case01.yy",},},
     {"id":{"name":"obj_bomberman","path":"objects/obj_bomberman/obj_bomberman.yy",},},
     {"id":{"name":"spr_livre_ouvert","path":"sprites/spr_livre_ouvert/spr_livre_ouvert.yy",},},
+    {"id":{"name":"obj_button_2","path":"objects/obj_button_2/obj_button_2.yy",},},
     {"id":{"name":"RoomOptions","path":"rooms/RoomOptions/RoomOptions.yy",},},
     {"id":{"name":"obj_health_bar","path":"objects/obj_health_bar/obj_health_bar.yy",},},
     {"id":{"name":"spr_sol","path":"sprites/spr_sol/spr_sol.yy",},},
