@@ -160,7 +160,7 @@
     {"id":{"name":"obj_stop_player","path":"objects/obj_stop_player/obj_stop_player.yy",},},
     {"id":{"name":"spr_zone_collision","path":"sprites/spr_zone_collision/spr_zone_collision.yy",},},
     {"id":{"name":"obj_kamikaze","path":"objects/obj_kamikaze/obj_kamikaze.yy",},},
-    {"id":{"name":"obj_fade_out","path":"objects/obj_fade_out/obj_fade_out.yy",},},
+    {"id":{"name":"obj_fade","path":"objects/obj_fade/obj_fade.yy",},},
     {"id":{"name":"spr_boite03","path":"sprites/spr_boite03/spr_boite03.yy",},},
     {"id":{"name":"spr_malette","path":"sprites/spr_malette/spr_malette.yy",},},
     {"id":{"name":"spr_button_options","path":"sprites/spr_button_options/spr_button_options.yy",},},
