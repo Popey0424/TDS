@@ -69,6 +69,7 @@
     {"id":{"name":"obj_Score","path":"objects/obj_Score/obj_Score.yy",},},
     {"id":{"name":"obj_mur_deco","path":"objects/obj_mur_deco/obj_mur_deco.yy",},},
     {"id":{"name":"obj_zone_collision","path":"objects/obj_zone_collision/obj_zone_collision.yy",},},
+    {"id":{"name":"scr_button_create","path":"scripts/scr_button_create/scr_button_create.yy",},},
     {"id":{"name":"TestAudio","path":"rooms/TestAudio/TestAudio.yy",},},
     {"id":{"name":"Level01","path":"rooms/Level01/Level01.yy",},},
     {"id":{"name":"obj_marks_arrow","path":"objects/obj_marks_arrow/obj_marks_arrow.yy",},},
