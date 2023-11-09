@@ -29,3 +29,5 @@ __dnd_lives += real(3);
 	
 	f2 = 0;
 	page_object2 = 0;
+	
+	next_dialogue = 0;

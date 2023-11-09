@@ -1,7 +1,8 @@
 //faire apparaitre le score sur le cote gauche de l'HUD
 
+draw_set_font(fnt_text_font);
 draw_text(40, 20, "Score: " + string(global.pscore));
-draw_text(40, 120, "COMBO: " + string(global.pcombo));
+draw_text(40, 120, "Combo: " + string(global.pcombo));
 
 
 
