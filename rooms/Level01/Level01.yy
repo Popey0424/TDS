@@ -2231,11 +2231,14 @@
 <<<<<<< Updated upstream
     {"name":"inst_1DBDC02B","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_905B6BF","path":"rooms/Level01/Level01.yy",},
+<<<<<<< HEAD
     {"name":"inst_12D826B5","path":"rooms/Level01/Level01.yy",},
     {"name":"inst_4A63E133","path":"rooms/Level01/Level01.yy",},
 =======
     {"name":"inst_511D2A0B","path":"rooms/Level01/Level01.yy",},
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 64df446 (Ajout du sol)
   ],
   "isDnd": false,
   "layers": [
@@ -2528,8 +2531,6 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_581B2DCD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_obstacle_verti_01","path":"objects/obj_obstacle_verti_01/obj_obstacle_verti_01.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":6912.0,"y":1920.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1DBDC02B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_text02","path":"objects/obj_text02/obj_text02.yy",},"properties":[],"rotation":0.0,"scaleX":16.183334,"scaleY":2.7296295,"x":2958.5,"y":1160.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_905B6BF","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_text03","path":"objects/obj_text03/obj_text03.yy",},"properties":[],"rotation":0.0,"scaleX":2.5,"scaleY":8.0,"x":16000.0,"y":2272.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_12D826B5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_checkpoint_off","path":"objects/obj_checkpoint_off/obj_checkpoint_off.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":3360.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4A63E133","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_checkpoint_off","path":"objects/obj_checkpoint_off/obj_checkpoint_off.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2688.0,"y":2144.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_Obj_Weapon","depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances_trou","depth":800,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
