@@ -190,7 +190,6 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room_tesqt","path":"rooms/Room_tesqt/Room_tesqt.yy",},},
-    {"roomId":{"name":"Level01","path":"rooms/Level01/Level01.yy",},},
     {"roomId":{"name":"RoomPause","path":"rooms/RoomPause/RoomPause.yy",},},
     {"roomId":{"name":"RoomMenu","path":"rooms/RoomMenu/RoomMenu.yy",},},
     {"roomId":{"name":"TestAudio","path":"rooms/TestAudio/TestAudio.yy",},},
