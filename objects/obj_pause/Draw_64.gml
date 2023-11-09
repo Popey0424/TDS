@@ -9,9 +9,8 @@
 //	draw_rectangle(0,0,gui_w,gui_h,false);
 //	draw_set_alpha(1);
 //	draw_set_color(c_white);
-//	draw_set_font(fnt_text);
-//	draw_text(gui_w/2,gui_h/2,"barigadam!");
-	
+//	button_create(0,224,208,256,c_dkgray,#dbdbdb,c_red,"Pause", 0);
+//}
 	
 	
 //}
